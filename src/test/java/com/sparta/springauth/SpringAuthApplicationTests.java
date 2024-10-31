@@ -1,4 +1,4 @@
-package org.sparta.springauth;
+package com.sparta.springauth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
